@@ -1,2 +1,2 @@
 # wallpapers
-Mis wallpapers favoritos 
+Descarga imagenes o clona repositorio 
